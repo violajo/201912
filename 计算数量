@@ -1,0 +1,1 @@
+new Set([...document.querySelectorAll('*')].map(ele=> ele.tagName)).size
