@@ -1,1 +1,2 @@
 new Set([...document.querySelectorAll('*')].map(ele=> ele.tagName)).size
+计算有多少个元素数量
